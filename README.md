@@ -5,3 +5,5 @@ controls:
 arrows- movement
 space- shooting
 z/x- changing weapons (unlock them by finishing rounds)
+
+Weapons are upgraded after beating further rounds
